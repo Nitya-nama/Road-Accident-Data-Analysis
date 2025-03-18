@@ -29,8 +29,9 @@ The dataset contains the following columns:
 ## 🛠 Setup & Requirements
 ### 1️⃣ Install Required Libraries
 Run the following command to install dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn folium
+bash`
+pip install pandas numpy matplotlib seaborn folium`
+
 2️⃣ Run the Jupyter Notebook
 Launch Jupyter Notebook and open Road_Accident_Analysis.ipynb to execute the analysis.
 
@@ -45,3 +46,5 @@ After running the notebook, an interactive heatmap will be saved as accident_hea
 
 🤝 Contributing
 Feel free to improve the dataset, add new visualizations, or suggest optimizations! 🚀
+
+
