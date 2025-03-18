@@ -1,0 +1,11 @@
+Accident_ID,Accident_Date,Time,City,State,Latitude,Longitude,Weather_Condition,Vehicle_Type,Severity
+1,2024-02-15,08:30,Mumbai,Maharashtra,19.076,72.8777,Clear,Car,Severe
+2,2024-03-10,19:15,Delhi,Delhi,28.7041,77.1025,Rain,Bike,Moderate
+3,2024-01-25,22:45,Bangalore,Karnataka,12.9716,77.5946,Fog,Truck,Fatal
+4,2024-02-05,14:20,Chennai,Tamil Nadu,13.0827,80.2707,Sunny,Car,Minor
+5,2024-04-12,09:00,Hyderabad,Telangana,17.385,78.4867,Clear,Bus,Severe
+6,2024-03-18,17:45,Pune,Maharashtra,18.5204,73.8567,Cloudy,Car,Moderate
+7,2024-02-20,23:10,Kolkata,West Bengal,22.5726,88.3639,Fog,Bike,Fatal
+8,2024-01-30,16:05,Jaipur,Rajasthan,26.9124,75.7873,Clear,Truck,Minor
+9,2024-02-22,11:30,Ahmedabad,Gujarat,23.0225,72.5714,Haze,Car,Severe
+10,2024-03-05,06:50,Lucknow,Uttar Pradesh,26.8467,80.9462,Fog,Bus,Fatal
